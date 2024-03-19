@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8dbd8df-6913-4697-9a13-31aed646e126" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ice_breaker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third_parties/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third_parties/linkedin_get_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third_parties/linkedin_response_creightonfriend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third_parties/linkedin_response_ubermoocher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third_parties/test_push.py" beforeDir="false" afterPath="$PROJECT_DIR$/third_parties/test_push.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
