@@ -6,7 +6,7 @@ class MyClass:
         print(self.x)
 
 # Creating an instance of MyClass
-obj = MyClass(575)
+obj = MyClass(5795)
 
 # Calling a method on the instance
 obj.print_x()  # Output: 5
